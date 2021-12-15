@@ -10,7 +10,6 @@
 <?php
     $servername = 'localhost';
     $username = 'root';
-    $charset = 'utf8';
     $password = '';
     $dbname = 'myDB6';
 
